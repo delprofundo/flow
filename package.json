@@ -1,5 +1,6 @@
 {
   "name": "flow",
+  "version": "0.141.0",
   "private": true,
   "workspaces": [
     "newtests",
